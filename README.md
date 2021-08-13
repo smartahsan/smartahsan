@@ -7,10 +7,10 @@
  - <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 
   
-• ⚡&nbsp;Fun fact **I love to play basketball!**
+<br>• ⚡&nbsp;Fun fact **I love to play basketball!**<br>
   
   
-• :+1: Languages and tools I know
+<br>• :+1: Languages and tools I know<br>
   
 </h3>
 
