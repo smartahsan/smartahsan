@@ -9,7 +9,6 @@
 - ⚡&nbsp;Fun fact **I love to play basketball!**
   
 - :+1:
-:thumbsup:
   
 </h3>
 
