@@ -8,7 +8,7 @@
 
 • ⚡&nbsp;Fun fact **I love to play basketball!**
   
-• :+1:
+• :+1: Languages and tools I know
   
 </h3>
 
