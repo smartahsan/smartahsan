@@ -4,7 +4,7 @@
 <h3 align="center"> 
   🤖 Here are some projects that I'm working on:
   
-  • <a href="https://twitter.com/CheemaGen">CheemaGen</a>
+  <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
   • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 </h3>
  
