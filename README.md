@@ -2,13 +2,13 @@
 
 
 <h3 align="left"> 
-- 🔭&nbsp;I’m currently working on
-  <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
- • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
+• 🔭&nbsp;I’m currently working on
+  <br> - <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
+ - <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 
-- ⚡&nbsp;Fun fact **I love to play basketball!**
+• ⚡&nbsp;Fun fact **I love to play basketball!**
   
-- :+1:
+• :+1:
   
 </h3>
 
