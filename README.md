@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center"> Learning To Code With Projects 💻 </h1>
 
-<!--
-**smartahsan/smartahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center"> 
+  🤖 Here are some projects that I'm working on:
+  
+  <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
+  • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
+</h3>
+ 
+<h3 align="center">
+  My Github Stats
+  <br><br>
+   <br> <img  src = "https://github-readme-stats.vercel.app/api?username=smartahsan&show_icons=true&theme=react&count_private=true&hide=issues"> 
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=smartahsan&layout=compact&theme=react"><br>
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=smartahsan&show_icons=true&locale=en&layout=compact&theme=react&line_height=0">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h3>
+
+<!-- 
+![smartahsan's github stats](https://github-readme-stats.vercel.app/api?username=smartahsan&show_icons=true&theme=react&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartahsan&layout=compact&theme=react) -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmartahsan&count_bg=%230E8BF7&title_bg=%23555555&icon=&icon_color=%230E8BF7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
