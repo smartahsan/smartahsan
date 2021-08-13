@@ -12,7 +12,7 @@
   My Github Stats
   <br><br>
    <br> <img  src = "https://github-readme-stats.vercel.app/api?username=smartahsan&show_icons=true&theme=default&count_private=true&hide=issues"> 
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=smartahsan&show_icons=true&locale=en&layout=compact&theme=default&line_height=0">
+   <br> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=smartahsan&show_icons=true&locale=en&layout=compact&theme=default&line_height=0"> <br>
   <br> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=smartahsan&layout=compact&theme=default"><br>
 
 </h3>
