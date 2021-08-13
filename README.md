@@ -2,12 +2,16 @@
 
 
 <h3 align="left"> 
-  🤖 Here are some projects that I'm working on:
-  
+- 🔭&nbsp;I’m currently working on
   <br> • <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
   • <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
+
+- ⚡&nbsp;Fun fact **I love to play basketball!**
+  
 </h3>
- 
+
+ <p align="left"><img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
+
 <h3 align="center">
   My Github Stats
   <br><br>
