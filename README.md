@@ -9,6 +9,7 @@
   
 <br>• ⚡&nbsp;Fun fact **I love to play basketball!**<br>
   
+<h2>
   
 <br>• :+1: Languages and tools I know<br>
   
