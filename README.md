@@ -6,10 +6,9 @@
   <br> - <a href="https://twitter.com/CheemaGen">CheemaGen</a> <br>
  - <a href="https://twitter.com/CheemaAIO">CheemaAIO</a>
 
+<br><br>
   
 <br>• ⚡&nbsp;Fun fact **I love to play basketball!**<br>
-
-<br><br>
     
 <h2>
   
