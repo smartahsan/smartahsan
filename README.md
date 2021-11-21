@@ -1,4 +1,4 @@
-<h1 align="center"> Learning To Code With Projects 💻 </h1>
+<h1 align="left"> Ali Syed 💻 </h1>
 
 
 <h3 align="left"> 
