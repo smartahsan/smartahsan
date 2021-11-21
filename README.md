@@ -4,7 +4,7 @@
 <h3 align="left"> 
 <br>• 🔭&nbsp;I’m currently working on/at<br>
   <br> - Software developer for <a href="https://twitter.com/OminousAIO">OminousAIO</a> <br>
- - <a href="https://twitter.com/CheemaGen">Founder and software developer for CheemaGen</a>
+ - Founder and software developer for <a href="https://twitter.com/CheemaGen">CheemaGen</a>
 
 
   
