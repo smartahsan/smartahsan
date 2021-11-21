@@ -2,9 +2,9 @@
 
 
 <h3 align="left"> 
-<br>• 🔭&nbsp;I’m currently working on<br>
-  <br> - <a href="https://twitter.com/OminousAIO">OminousAIO</a> <br>
- - <a href="https://twitter.com/CheemaGen">CheemaGen</a>
+<br>• 🔭&nbsp;I’m currently working on/at<br>
+  <br> - <a href="https://twitter.com/OminousAIO">Software developer for OminousAIO</a> <br>
+ - <a href="https://twitter.com/CheemaGen">Founder and software developer for CheemaGen</a>
 
 
   
