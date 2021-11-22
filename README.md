@@ -15,7 +15,7 @@
 <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" alt="react" width="40"
 height="40"/> 
-<img src="https://img.icons8.com/ios-filled/35/4a90e2/selenium-test-automation.png" alt="react" width="40"
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="VSCode" width="40"
 height="40"/>
 </p><br>
 
