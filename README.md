@@ -5,10 +5,6 @@
 <br>• 🔭&nbsp;I’m currently working on/at<br>
   <br> - Software developer for <a href="https://twitter.com/OminousAIO">OminousAIO</a> <br>
  - Founder and software developer for <a href="https://twitter.com/CheemaGen">CheemaGen</a>
-
-
-  
-<br>• ⚡&nbsp;Fun fact **I love to play basketball!**<br>
       
 <br>• :+1: Languages and tools I know<br>
   
